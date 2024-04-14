@@ -14,6 +14,6 @@ Responsive Design: The layout is designed to adapt to various screen sizes, ensu
 Product Display: Product cards showcase various items, mimicking the style of Amazon's product listings.
 Navigation: A navigation bar at the top provides links to different sections of the site, enhancing user navigation.
 
-Technologies Used
+Technologies Used:
 HTML
 CSS

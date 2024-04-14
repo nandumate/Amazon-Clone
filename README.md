@@ -1,5 +1,6 @@
 Amazon Clone
 Overview
+
 Welcome to the Amazon Clone project! This project is an attempt to recreate the layout and design of the Amazon website using HTML & CSS. It serves as a demonstration of front-end web development skills, focusing on the visual aspect of web design.
 
 Description
